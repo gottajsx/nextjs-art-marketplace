@@ -15,6 +15,8 @@ or simply install the latest official versions
 npm install react@18.2.0
 npm install react-dom@18.3.0
 
+npm run dev
+
 
 
 
